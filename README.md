@@ -1,2 +1,2 @@
 # formacao-golang
-Código do curso da formação golang da Alura.
+Código do curso formação golang da Alura.
