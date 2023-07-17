@@ -1,0 +1,27 @@
+https://random-status-code.herokuapp.com/ - online: false
+https://www.alura.com.br - online: true
+https://www.caelum.com.br - online: true
+https://random-status-code.herokuapp.com/ - online: false
+https://www.alura.com.br - online: true
+https://www.caelum.com.br - online: true
+https://random-status-code.herokuapp.com/ - online: false
+https://www.alura.com.br - online: true
+https://www.caelum.com.br - online: true
+24/05/2023 21:21:44https://random-status-code.herokuapp.com/ - online: false
+24/05/2023 21:21:44https://www.alura.com.br - online: true
+24/05/2023 21:21:44https://www.caelum.com.br - online: true
+24/05/2023 21:21:46https://random-status-code.herokuapp.com/ - online: false
+24/05/2023 21:21:46https://www.alura.com.br - online: true
+24/05/2023 21:21:46https://www.caelum.com.br - online: true
+24/05/2023 21:21:47https://random-status-code.herokuapp.com/ - online: false
+24/05/2023 21:21:47https://www.alura.com.br - online: true
+24/05/2023 21:21:47https://www.caelum.com.br - online: true
+24/05/2023 21:22:21 - https://random-status-code.herokuapp.com/ - online: false
+24/05/2023 21:22:21 - https://www.alura.com.br - online: true
+24/05/2023 21:22:22 - https://www.caelum.com.br - online: true
+24/05/2023 21:22:23 - https://random-status-code.herokuapp.com/ - online: false
+24/05/2023 21:22:23 - https://www.alura.com.br - online: true
+24/05/2023 21:22:23 - https://www.caelum.com.br - online: true
+24/05/2023 21:22:25 - https://random-status-code.herokuapp.com/ - online: false
+24/05/2023 21:22:25 - https://www.alura.com.br - online: true
+24/05/2023 21:22:25 - https://www.caelum.com.br - online: true
